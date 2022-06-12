@@ -7,6 +7,7 @@ pipeline {
                 echo 'Performing the Build option'
             }
         }
+        
     
      stage('Deploy') {
             steps {
